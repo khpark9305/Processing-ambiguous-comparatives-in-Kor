@@ -1,4 +1,5 @@
-# Processing-ambiguous-comparatives-in-Kor-Eye-Tracking
-The sentence completion, sentence comprehension, eye-tracker data and R scripts for 'Processing ambiguous comparative constructions in Korean: An Eye-Tracking Study'.
+# Processing-ambiguous-comparatives-in-Kor
 
-This is from my master's thesis project.
+(Under construction)
+
+The sentence completion, sentence comprehension, eye-tracker data and R scripts for 'Processing ambiguous comparative constructions in Korean', with a summary of the thesis in English. This is from my master's thesis project.
