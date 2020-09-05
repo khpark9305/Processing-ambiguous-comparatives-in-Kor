@@ -6,6 +6,10 @@ The sentence completion, sentence comprehension, eye-tracker data and R scripts 
 
 # Introduction
 
+Consider the sentence below:
+
+(1) Keira likes Rachel more than Michelle.
+
 # Method
 
 # Results
